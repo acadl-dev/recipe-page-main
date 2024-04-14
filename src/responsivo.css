@@ -1,0 +1,17 @@
+@media (max-width: 1200px) {
+    .box{
+        width: 400px;
+        height: auto;
+    }
+}
+
+@media (max-width: 425px) {
+    .box {
+    width: 350px;
+    height: auto;
+    }
+    .tabela{
+        border-spacing: 50px 8px;
+    }
+
+}
